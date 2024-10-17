@@ -1,0 +1,37 @@
+*{
+    background-color:hsl(240, 39%, 83%);
+}
+
+.sec{
+    background-color:bisque;
+    color: black;
+}
+
+.sec-1{
+    background-color: chartreuse;
+}
+
+#{
+background-color:bisque ;
+color: black;
+}
+
+h2{
+    background-color:bisque;
+    color: black;
+}
+ 
+h3{
+    background-color: brown;
+    color: white;
+}
+
+div{
+    background-color: burlywood;
+    color:black;
+}
+
+p{
+    background-color: burlywood;
+    color:black;
+}
